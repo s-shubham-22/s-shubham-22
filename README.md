@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <a href="https://twitter.com/shubhamsareliya" target="blank"><img src="https://img.shields.io/twitter/follow/shubhamsareliya?logo=twitter&style=for-the-badge" alt="shubhamsareliya" /></a> </p>
 
-### Blogs posts
+<!-- ### Blogs posts -->
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
