@@ -1,9 +1,3 @@
-- 👋 Hi, I’m Shubham Sareliya
-- 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning ReactJS
-- 💞️ I’m looking to collaborate on Backend Development
-- 📫 How to reach me: [Linktree](https://linktr.ee/s_shubham_22)
-
 <!---
 s-shubham-22/s-shubham-22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -12,6 +6,12 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Shubham Sareliya</h1>
 <h3 align="center">I'm a Full-Stack Web Developer from Gujarat, India.</h3>
 
+-   👋 Hi, I’m Shubham Sareliya
+-   👀 I’m interested in Full Stack Web Development
+-   🌱 I’m currently learning ReactJS
+-   💞️ I’m looking to collaborate on Backend Development
+-   📫 How to reach me: [Linktree](https://linktr.ee/s_shubham_22)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s-shubham-22&label=Profile%20views&color=0e75b6&style=flat" alt="s-shubham-22" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s-shubham-22" alt="s-shubham-22" /></a> </p>
@@ -19,6 +19,7 @@ You can click the Preview link to take a look at your changes.
 <p align="left"> <a href="https://twitter.com/shubhamsareliya" target="blank"><img src="https://img.shields.io/twitter/follow/shubhamsareliya?logo=twitter&style=for-the-badge" alt="shubhamsareliya" /></a> </p>
 
 ### Blogs posts
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
@@ -42,7 +43,6 @@ You can click the Preview link to take a look at your changes.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=s-shubham-22&show_icons=true&locale=en&layout=compact" alt="s-shubham-22" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=s-shubham-22&show_icons=true&locale=en" alt="s-shubham-22" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=s-shubham-22&show_icons=true&locale=en" alt="s-shubham-22" /></p>Wk32MDwwC
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=s-shubham-22&" alt="s-shubham-22" /></p>
-
