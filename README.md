@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s-shubham-22&label=Profile%20views&color=0e75b6&style=flat" alt="s-shubham-22" /> </p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s-shubham-22&theme=gruvbox" alt="s-shubham-22" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s-shubham-22&theme=gruvbox&margin-w=15&margin-h=15" alt="s-shubham-22" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/shubhamsareliya" target="blank"><img src="https://img.shields.io/twitter/follow/shubhamsareliya?logo=twitter&style=for-the-badge" alt="shubhamsareliya" /></a> </p>
 
