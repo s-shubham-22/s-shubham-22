@@ -49,3 +49,5 @@ You can click the Preview link to take a look at your changes.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=s-shubham-22&show_icons=true&locale=en" alt="s-shubham-22" /></p>Wk32MDwwC -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=s-shubham-22&" alt="s-shubham-22" /></p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s-shubham-22&show_icons=true&theme=merko)
