@@ -26,11 +26,11 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://hashnode.com/@shubhamsareliya" target="blank"><img align="center" src="https://imgs.search.brave.com/pU64nxD9qyhHA8tOjQxxVSOwwCmhVtvAY5TaCvhz8Y8/rs:fit:256:256:1/g:ce/aHR0cHM6Ly93d3cu/c3Zndmlld2VyLmRl/di9zdGF0aWMtc3Zn/cy8xNDAyNC9oYXNo/bm9kZS1pY29uLnN2/Zw.svg" alt="@shubhamsareliya" height="30" width="40" /></a>
 <a href="https://dev.to/@s_shubham_22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="s_shubham_22" height="30" width="40" /></a>
 <a href="https://twitter.com/shubhamsareliya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubhamsareliya" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shubham-sareliya-84a151204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-sareliya-84a151204" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20993431" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20993431" height="30" width="40" /></a>
-<a href="https://hashnode.com/@shubhamsareliya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@shubhamsareliya" height="30" width="40" /></a>
 <a href="https://medium.com/@shubhamsareliya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shubhamsareliya" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/s_shubham_22" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="s_shubham_22" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shubham_sareliya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shubham_sareliya" height="30" width="40" /></a>
