@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shubham Sareliya</h1>
-<h3 align="center">A passionate Full-Stack Developer from India</h3>
+
+<p align="center"><img src="./assets/img/developer.avif" style="max-height: 300px; max-width:300px; border-radius:1rem;" /></p>
+
+<h2 align="center">A passionate Full-Stack Developer from India</h2>
 
 - 🔭 I’m currently working on **Full-Stack Development**
 
